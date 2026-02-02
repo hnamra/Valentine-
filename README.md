@@ -1,4 +1,4 @@
-# Valentine-# 💖 Valentine for Duaa
+# 💖 Valentine for Duaa
 
 This is a cute, mobile-friendly Valentine’s Day website with:
 - Countdown to Valentine’s Day
